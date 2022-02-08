@@ -14,6 +14,7 @@ public class Main {
     Singer singer = new Singer("Justin Bieber","Singer","X-band");
         System.out.println(singer.toString());
         singer.singing();
+        singer.playing();
 
 
 

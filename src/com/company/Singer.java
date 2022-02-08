@@ -11,4 +11,7 @@ public class Singer extends Person{
     public void singing(){
         System.out.println("His is singing in "+bandName+" group.");
     }
+    public void playing(){
+        System.out.println("His is playing guitar.");
+    }
 }
