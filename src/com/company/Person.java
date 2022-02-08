@@ -4,7 +4,6 @@ public class Person {
     private String name;
     private String designation;
 
-    @Override
     public String toString() {
         System.out.println("His name is "+ name);
         eat();
